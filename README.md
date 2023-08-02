@@ -1,3 +1,3 @@
 # aleka
 
-Short everning project, experiementing with the whisper API.
+Short evening project, experiementing with the whisper API.
